@@ -488,7 +488,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
-  border-radius: 5%;
+  border-radius: 2%;
   margin-top: 1em;
   margin-right: 50em;
 }
@@ -8558,7 +8558,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header .picture {
-  width: 200px;
+  width: 180px;
 }
 
 .resume-header .name {
